@@ -1,5 +1,7 @@
 # Download-All-Videos
-This program downloads every video from a given formatter html file.  Requires Java and Firefox extension "Link Gopher".
+This program downloads every video from a given webpage.  
+Utilizing Link Gopher Firefox extenstion to get the URLs for each video; formats the result to send to youtube-dl to handle the individual downloads.
+Requires Java and Firefox extension "Link Gopher".
 
 #To Install
 
