@@ -13,9 +13,12 @@ Step 3: Install Link Gopher Extension in Firefox
 
 
 #To Run
+
 Step 1: Use Link Gopher Extension to obtain a formatter html file of all the links on the page.
 
-Step 2: Run downloadVideos.sh (filename of formatted html)
+Step 2:
+
+	./downloadVideos.sh <filename of formatted html>
 
 Step 3: Watch all the videos!
 
